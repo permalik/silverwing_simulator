@@ -25,6 +25,7 @@
             pkgs.gnumake
             pkgs.pkg-config
             pkgs.llvmPackages_19.clang-tools
+            pkgs.SDL2
             # pkgs.gdb
             # pkgs.valgrind
           ];
